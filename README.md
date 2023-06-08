@@ -3,7 +3,7 @@
 Project creator:[ Tianyi Liang ](https://www.linkedin.com/in/tianyi-liang-at-bu/)
 Create date: 06/07/2023. 
 
-<h4>**Introduction**</h4>
+<h2>**Introduction**</h2>
 
 In the ever-evolving energy market, understanding customer behavior is crucial for maintaining a competitive edge. This report presents the findings from our in-depth analysis of customer churn and price sensitivity, using two comprehensive datasets: **client\_data.csv** and **price\_data.csv**. 
 
