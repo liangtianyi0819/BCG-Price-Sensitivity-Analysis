@@ -1,9 +1,7 @@
-# BCG Price Sensitivity Analysis: Conclusive Report
+# BCG Price Sensitivity Analysis
 
 Project creator: [Tianyi Liang](https://www.linkedin.com/in/tianyi-liang-at-bu/)   
 Create date: 06/07/2023.
-
-# BCG Price Sensitivity Analysis
 
 This project conducts an in-depth analysis of two datasets: `client_data.csv` and `price_data.csv`, with the aim of understanding the price sensitivity of customers and its impact on customer churn. 
 
