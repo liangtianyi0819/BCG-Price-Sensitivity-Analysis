@@ -11,9 +11,9 @@ In the ever-evolving energy market, understanding customer behavior is crucial f
 
 Our analysis revealed several key insights: 
 
-    1. **Churn Rate**: We found that the churn rate before applying any discount was 10.39%. This indicates that over 10% of customers were leaving the service, which is a significant     proportion that warrants further investigation and action. 
-    2. **Price Sensitivity**: After applying a 20% discount to a subset of customers who had churned, the churn rate dropped to 3.54%. This is a significant reduction and suggests that price is a major factor influencing customer churn. 
-    3. **Global Impact**: The discount strategy resulted in a 6.85% change in the global churn rate and a 65.94% reduction in the churn rate among the customers who received the discount. This demonstrates the potential effectiveness of a price-based strategy in reducing customer churn. 
+  1. **Churn Rate**: We found that the churn rate before applying any discount was 10.39%. This indicates that over 10% of customers were leaving the service, which is a significant     proportion that warrants further investigation and action. 
+  2. **Price Sensitivity**: After applying a 20% discount to a subset of customers who had churned, the churn rate dropped to 3.54%. This is a significant reduction and suggests that price is a major factor influencing customer churn. 
+  3. **Global Impact**: The discount strategy resulted in a 6.85% change in the global churn rate and a 65.94% reduction in the churn rate among the customers who received the discount. This demonstrates the potential effectiveness of a price-based strategy in reducing customer churn. 
 
 <h3>Business Strategy</h3>
 
