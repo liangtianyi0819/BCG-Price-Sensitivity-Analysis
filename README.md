@@ -1,7 +1,6 @@
 # BCG Price Sensitivity Analysis: Conclusive Report
 
 Project creator: [Tianyi Liang](https://www.linkedin.com/in/tianyi-liang-at-bu/)
-
 Create date: 06/07/2023.
 
 # BCG Price Sensitivity Analysis
