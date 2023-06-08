@@ -19,9 +19,9 @@ Our analysis revealed several key insights:
 
 Based on these insights, we propose the following strategies: 
 
-1. **Implement a Discount Program**: Given the significant reduction in churn rate following the application of a 20% discount, implementing a discount program could be a viable strategy for reducing churn. This program could target customers identified as being at high risk of churn. 
-1. **Personalize Pricing**: The impact of the discount suggests that customers are sensitive to price changes. Therefore, a personalized pricing strategy, where prices are tailored based on individual customer behavior and characteristics, could be effective. 
-1. **Enhance Customer Engagement**: While price is a significant factor, it's not the only reason customer’s churn. Improving customer engagement through better communication, service, and value-added offerings could also help reduce churn. 
+   1. **Implement a Discount Program**: Given the significant reduction in churn rate following the application of a 20% discount, implementing a discount program could be a viable strategy for reducing churn. This program could target customers identified as being at high risk of churn. 
+   2. **Personalize Pricing**: The impact of the discount suggests that customers are sensitive to price changes. Therefore, a personalized pricing strategy, where prices are tailored based on individual customer behavior and characteristics, could be effective. 
+   3. **Enhance Customer Engagement**: While price is a significant factor, it's not the only reason customer’s churn. Improving customer engagement through better communication, service, and value-added offerings could also help reduce churn. 
 
 <h3>Final Thoughts</h3>
 
