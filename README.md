@@ -1,4 +1,4 @@
-<h6>**BCG Price Sensitivity Analysis: Conclusive Report**</h6>
+<h1>**BCG Price Sensitivity Analysis: Conclusive Report**</h1>
 
 Project creator:[ Tianyi Liang ](https://www.linkedin.com/in/tianyi-liang-at-bu/)
 Create date: 06/07/2023. 
