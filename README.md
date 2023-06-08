@@ -1,9 +1,9 @@
-<h1>**BCG Price Sensitivity Analysis: Conclusive Report**</h1>
+<h1>BCG Price Sensitivity Analysis: Conclusive Report</h1>
 
 Project creator:[ Tianyi Liang ](https://www.linkedin.com/in/tianyi-liang-at-bu/)
 Create date: 06/07/2023. 
 
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 
 In the ever-evolving energy market, understanding customer behavior is crucial for maintaining a competitive edge. This report presents the findings from our in-depth analysis of customer churn and price sensitivity, using two comprehensive datasets: **client\_data.csv** and **price\_data.csv**. 
 
