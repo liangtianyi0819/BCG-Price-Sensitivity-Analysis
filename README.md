@@ -12,7 +12,7 @@ This project conducts an in-depth analysis of two datasets: `client_data.csv` an
 1. [Project Description](#project-description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Key Insights](#key-insights)
+4. [Key Insights](#key-insigts)
 5. [Business Strategy](#business-strategy)
 6. [Final Thoughts](#final-thoughts)
 
